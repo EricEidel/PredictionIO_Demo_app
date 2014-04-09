@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RedRecommend</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_log_in">Incorrect password or username!\nPlease try again.</string>
+    <string name="log_in_button">Log In</string>
+    <string name="register_button">Create an Account</string>
+    <string name="title_activity_recommendation_page">RecommendationPage</string>
+    <string name="fragment_display_message">Hello world!</string>
+
+     <string name="hello_world">Hello World</string>
+    
+    <string name="title_activity_display_recommendations">Welcome to the recommendations page</string>
+</resources>
